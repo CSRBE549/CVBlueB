@@ -1,4 +1,4 @@
-Code/blueberryBeta/CMakeFiles
-Code/blueberryBeta/Makefile
-Code/blueberryBeta/CMakeLists.txt
+!Code/blueberryBeta
+Code/blueberryBeta/CMakeFiles/*
+*.txt
 *.cmake
